@@ -12,9 +12,7 @@ const Main = (props) => {
 										<header className="major">
 											<h2>Intro</h2>
 										</header>
-										<p>Sed lorem ipsum dolor sit amet nullam consequat feugiat consequat magna
-										adipiscing magna etiam amet veroeros. Lorem ipsum dolor tempus sit cursus.
-										Tempus nisl et nullam lorem ipsum dolor sit amet aliquam.</p>
+										<p>This is my first attempt at converting a standard HTML template into React components. It currently uses Express to serve the assets, with index.hjs launching the React index.js which subsequently renders App.js</p>
 										<ul className="actions">
 											<li><a href="generic.html" className="button">Learn More</a></li>
 										</ul>
